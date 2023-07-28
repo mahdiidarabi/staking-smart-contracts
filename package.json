@@ -1,0 +1,9 @@
+{
+  "name": "staking-smart-contracts",
+  "version": "0.0.1",
+  "description": "a set of smart contracts to handle staking in an EVM blockchain",
+  "main": "index.js",
+  "repository": "git@github.com-mahdiidarabi:mahdiidarabi/staking-smart-contracts.git",
+  "author": "mahdiidarabi <mahdi.darabi.official@gmail.com>",
+  "license": "MIT"
+}
